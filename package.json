@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://ns-faiza9.github.io/S9_Project1"
   "scripts": {
     "dev": "vite",
     "build": "vite build",
