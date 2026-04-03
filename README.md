@@ -1,3 +1,6 @@
+All the projects by the name "S9_project" are the projects shown by FEFD sir or the ones given as an assignment.
+In project 1, the sir told us to change the default Rect+Vite project using images or extra CSS. So add two grid boxes and made it as a personal portfolio page.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
